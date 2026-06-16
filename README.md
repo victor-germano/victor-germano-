@@ -61,7 +61,7 @@ Sou desenvolvedor web com foco em **criação de sites institucionais**, **landi
 | [🎓 Alma Estudos Visuais](https://github.com/vgermano1711/alma-estudos-visuais) | Plataforma de estudos visuais com design moderno, IA integrada e experiência de usuário otimizada — em construção com foco em performance e identidade visual forte | TypeScript, Figma, Lovable, Claude AI | 🔧 Em desenvolvimento |
 | [🏋️ Academia Agits](https://github.com/vgermano1711/academia-agits) | Site institucional para academia com PHP | PHP, HTML, CSS | ✅ Em produção |
 | [🚀 GNX Growth](https://github.com/vgermano1711/gnxgrowth) | SaaS de delivery com automações e gestão integrada | HTML, CSS, JS | 🔧 Em desenvolvimento |
-| [🤖 Agente de Automação](https://github.com/vgermano1711/Agente-de-automa-o-) | Sistema multi-agente de automação comercial — agentes de IA que qualificam leads, respondem clientes e gerenciam funil de vendas de forma autônoma | HTML, JS, Claude AI | 🔧 Em desenvolvimento |
+| [🤖 Agente de Automação](https://github.com/vgermano1711/agente-de-automacao) | Sistema multi-agente de automação comercial — agentes de IA que qualificam leads, respondem clientes e gerenciam funil de vendas de forma autônoma | HTML, JS, Claude AI | 🔧 Em desenvolvimento |
 | [🥤 Projeto Pringles](https://github.com/vgermano1711/projeto-pringles) | Aplicação web com TypeScript | TypeScript | 🔧 Estudo |
 | [🧠 Segundo Cérebro](https://github.com/vgermano1711/segundo-cerebro) | Setup de produtividade com Obsidian + Claude AI | Obsidian, Claude AI | 🔧 Pessoal |
 
