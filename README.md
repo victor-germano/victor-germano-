@@ -64,6 +64,7 @@ Sou desenvolvedor web com foco em **criação de sites institucionais**, **landi
 | [🤖 Agente de Automação](https://github.com/vgermano1711/agente-de-automacao) | Sistema multi-agente de automação comercial — agentes de IA que qualificam leads, respondem clientes e gerenciam funil de vendas de forma autônoma | HTML, JS, Claude AI | 🔧 Em desenvolvimento |
 | [🥤 Projeto Pringles](https://github.com/vgermano1711/projeto-pringles) | Aplicação web com TypeScript | TypeScript | 🔧 Estudo |
 | [🧠 Segundo Cérebro](https://github.com/vgermano1711/segundo-cerebro) | Setup de produtividade com Obsidian + Claude AI | Obsidian, Claude AI | 🔧 Pessoal |
+| [🧾 Agente de Emissão NF-e](https://github.com/vgermano1711/agente-de-emissao-NF-e) | Agente de IA para automação completa de emissão de Nota Fiscal Eletrônica, integrado ao SEFAZ | Python, Claude AI | 🔧 Em desenvolvimento |
 
 ---
 
