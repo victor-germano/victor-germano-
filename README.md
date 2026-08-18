@@ -1,11 +1,11 @@
 <div align="center">
 
-# Olá, sou Victor Germano 👋
+# Victor Germano
 
-### Desenvolvedor Web · Criador de Sites Institucionais · Entusiasta de IA Aplicada
+### Web Developer — Institutional Sites, Applied AI and Automation
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/victor-germano-65787b2b1/)
-[![Portfólio](https://img.shields.io/badge/Portf%C3%B3lio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://germanodev-portfolio.netlify.app/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://germanodev-portfolio.netlify.app/)
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/5511953570476)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/v_.germano)
 
@@ -13,19 +13,19 @@
 
 ---
 
-## 🚀 Sobre mim
+## Sobre mim
 
-Sou desenvolvedor web com foco em **criação de sites institucionais**, **landing pages de alta performance** e **automações com IA**. Trabalho combinando ferramentas modernas como **Claude**, **Lovable** e prototipagem no **Figma** para entregar produtos com design profissional e infraestrutura robusta.
+Desenvolvedor web com foco em criação de sites institucionais, landing pages de alta performance e automações com IA. Trabalho combinando ferramentas modernas como Claude, Lovable e prototipagem no Figma para entregar produtos com design profissional e infraestrutura robusta.
 
-- 🌍 Baseado em São Paulo, Brasil
-- 🎓 Estudante de Engenharia de Software — Universidade Cruzeiro do Sul
-- 💼 Experiência com projetos reais entregues para clientes
-- 🤖 Apaixonado por produtividade e IA aplicada ao desenvolvimento
-- 🚀 Disponível para novos projetos e oportunidades
+- Baseado em São Paulo, Brasil
+- Estudante de Engenharia de Software — Universidade Cruzeiro do Sul
+- Experiência com projetos reais entregues para clientes
+- Foco em produtividade e IA aplicada ao desenvolvimento
+- Disponível para novos projetos e oportunidades
 
 ---
 
-## 🛠️ Stack & Tecnologias
+## Stack & Tecnologias
 
 <div align="center">
 
@@ -53,22 +53,22 @@ Sou desenvolvedor web com foco em **criação de sites institucionais**, **landi
 
 ---
 
-## 📂 Projetos em Destaque
+## Projetos em Destaque
 
 | Projeto | Descrição | Tecnologias | Status |
 |--------|-----------|-------------|--------|
-| [🎨 Portfólio Pessoal](https://github.com/vgermano1711/portfolio-germano-dev) | Site com painel admin dinâmico e banco de dados | HTML, CSS, JS, Supabase | ✅ Em produção |
-| [🎓 Alma Estudos Visuais](https://github.com/vgermano1711/alma-estudos-visuais) | Plataforma de estudos visuais com design moderno, IA integrada e experiência de usuário otimizada — em construção com foco em performance e identidade visual forte | TypeScript, Figma, Lovable, Claude AI | 🔧 Em desenvolvimento |
-| [🏋️ Academia Agits](https://github.com/vgermano1711/academia-agits) | Site institucional para academia com PHP | PHP, HTML, CSS | ✅ Em produção |
-| [🚀 GNX Growth](https://github.com/vgermano1711/gnxgrowth) | SaaS de delivery com automações e gestão integrada | HTML, CSS, JS | 🔧 Em desenvolvimento |
-| [🤖 Agente de Automação](https://github.com/vgermano1711/agente-de-automacao) | Sistema multi-agente de automação comercial — agentes de IA que qualificam leads, respondem clientes e gerenciam funil de vendas de forma autônoma | HTML, JS, Claude AI | 🔧 Em desenvolvimento |
-| [🥤 Projeto Pringles](https://github.com/vgermano1711/projeto-pringles) | Aplicação web com TypeScript | TypeScript | 🔧 Estudo |
-| [🧠 Segundo Cérebro](https://github.com/vgermano1711/segundo-cerebro) | Setup de produtividade com Obsidian + Claude AI | Obsidian, Claude AI | 🔧 Pessoal |
-| [🧾 Agente de Emissão NF-e](https://github.com/vgermano1711/agente-de-emissao-NF-e) | Agente de IA para automação completa de emissão de Nota Fiscal Eletrônica, integrado ao SEFAZ | Python, Claude AI | 🔧 Em desenvolvimento |
+| [Portfólio Pessoal](https://github.com/vgermano1711/portfolio-germano-dev) | Site com painel admin dinâmico e banco de dados | HTML, CSS, JS, Supabase | Em produção |
+| [Alma Estudos Visuais](https://github.com/vgermano1711/alma-estudos-visuais) | Plataforma de estudos visuais com design moderno, IA integrada e experiência de usuário otimizada — em construção com foco em performance e identidade visual forte | TypeScript, Figma, Lovable, Claude AI | Em desenvolvimento |
+| [Academia Agits](https://github.com/vgermano1711/academia-agits) | Site institucional para academia com PHP | PHP, HTML, CSS | Em produção |
+| [GNX Growth](https://github.com/vgermano1711/gnxgrowth) | SaaS de delivery com automações e gestão integrada | HTML, CSS, JS | Em desenvolvimento |
+| [Agente de Automação](https://github.com/vgermano1711/agente-de-automacao) | Sistema multi-agente de automação comercial — agentes de IA que qualificam leads, respondem clientes e gerenciam funil de vendas de forma autônoma | TypeScript, Node.js, Claude AI | Em desenvolvimento |
+| [Projeto Pringles](https://github.com/vgermano1711/projeto-pringles) | Aplicação web com TypeScript | TypeScript | Estudo |
+| [Segundo Cérebro](https://github.com/vgermano1711/segundo-cerebro) | Setup de produtividade com Obsidian + Claude AI | Obsidian, Claude AI | Pessoal |
+| [Agente de Emissão NF-e](https://github.com/vgermano1711/agente-de-emissao-NF-e) | Agente para automação de emissão de Nota Fiscal Eletrônica, integrado ao SEFAZ | Python, Claude AI | Em desenvolvimento |
 
 ---
 
-## 📊 Estatísticas do GitHub
+## Estatísticas do GitHub
 
 <div align="center">
 
@@ -94,8 +94,6 @@ Sou desenvolvedor web com foco em **criação de sites institucionais**, **landi
 
 <div align="center">
 
-⭐ Se algum projeto te ajudou, deixa uma estrela! Isso faz muita diferença.
-
-**Vamos construir algo incrível juntos?** → [Entre em contato](https://wa.me/5511953570476)
+**Contato:** [WhatsApp](https://wa.me/5511953570476) · [LinkedIn](https://www.linkedin.com/in/victor-germano-65787b2b1/)
 
 </div>
