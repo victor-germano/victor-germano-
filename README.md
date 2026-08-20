@@ -67,12 +67,10 @@ Desenvolvedor web com foco em criação de sites institucionais, landing pages d
 | Instituição | Curso | Carga horária |
 |---|---|---|
 | SENAI | Lógica de Programação: Algoritmos | 14h |
-| SENAI | Lógica de Programação: Tipos de Dados | — |
+| SENAI | Lógica de Programação: Tipos de Dados | 14h |
 | SENAI | Tecnologia e Comunicação | 14h |
-| SENAI | Ética na IA | — |
+| SENAI | Ética na IA | 14h |
 | Gustavo Campelo | Desenvolvimento Web com Integração em IA | — |
-| Gustavo Guanabara | Python do Zero | — |
-| EBAC | Figma na Prática: Prototipagem com IA | — |
 | Enap | Banco de Dados — Censo Cadastral Previdenciário (nota 80) | 30h |
 | Santander Open Academy | Maximizar a IA no seu Negócio | 8h |
 | Santander / Google | Domine a IA com Gemini | 2h |
@@ -173,6 +171,6 @@ Desenvolvedor web com foco em criação de sites institucionais, landing pages d
 
 <div align="center">
 
-**Contato:** [WhatsApp](https://wa.me/5511953570476) · [LinkedIn](https://www.linkedin.com/in/victor-germano-65787b2b1/)
+**Contato:** [WhatsApp](https://wa.me/5511953570476) · [www.linkedin.com/in/victor-germano-65787b2b1](https://www.linkedin.com/in/victor-germano-65787b2b1)
 
 </div>
