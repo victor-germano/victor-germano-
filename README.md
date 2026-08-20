@@ -1,6 +1,6 @@
 <div align="center">
 
-# Eai! Sou Victor Germano
+# Victor Germano
 
 ### Web Developer — Institutional Sites, Applied AI and Automation
 
@@ -22,6 +22,54 @@ Desenvolvedor web com foco em criação de sites institucionais, landing pages d
 - Experiência com projetos reais entregues para clientes
 - Foco em produtividade e IA aplicada ao desenvolvimento
 - Disponível para novos projetos e oportunidades
+
+---
+
+## Formação Acadêmica
+
+- Engenharia de Software (em curso) — Universidade Cruzeiro do Sul
+
+---
+
+## Certificações
+
+**Anthropic Academy** (17 cursos)
+
+<details>
+<summary>Ver todos</summary>
+<br>
+
+- AI Fluency: Framework & Foundations
+- AI Fluency: AI Capabilities & Limitations
+- AI Fluency for Educators
+- AI Fluency for Students
+- AI Fluency for Nonprofits — co-apresentado com GivingTuesday
+- AI Fluency for Small Businesses — co-apresentado com PayPal
+- Claude 101
+- Claude Code 101
+- Claude Code in Action
+- Introduction to Claude Cowork
+- Claude with the Anthropic API
+- Claude with Amazon Bedrock
+- Claude with Google Vertex AI
+- Introduction to Model Context Protocol
+- Model Context Protocol: Advanced Topics
+- Introduction to subagents
+- Introduction to agent skills
+
+</details>
+
+**Outras instituições**
+
+| Instituição | Curso | Carga horária |
+|---|---|---|
+| SENAI | Competência Transversal — Lógica de Programação | 14h |
+| SENAI | Competência Transversal — Tecnologia da Informação e Comunicação | 14h |
+| Unova Cursos | Engenharia de Prompt (nota 9, frequência 100%) | 30h |
+| Santander Open Academy | Domine a IA com Gemini | 2h |
+| Santander Open Academy | Prompting Responsável: Maximizar a IA no seu negócio | 8h |
+| Daxus | Imersão Inteligência Artificial na Prática | 8h |
+| Enap | Censo Cadastral Previdenciário (nota 80) | 30h |
 
 ---
 
