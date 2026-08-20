@@ -49,6 +49,10 @@ Desenvolvedor web com foco em criação de sites institucionais, landing pages d
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 ![Claude](https://img.shields.io/badge/Claude_AI-D97757?style=for-the-badge&logo=anthropic&logoColor=white)
 
+<br>
+
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,react,nodejs,python,php,figma,git,github,mysql)](https://skillicons.dev)
+
 </div>
 
 ---
@@ -65,6 +69,24 @@ Desenvolvedor web com foco em criação de sites institucionais, landing pages d
 | [Projeto Pringles](https://github.com/vgermano1711/projeto-pringles) | Aplicação web com TypeScript | TypeScript | Estudo |
 | [Segundo Cérebro](https://github.com/vgermano1711/segundo-cerebro) | Setup de produtividade com Obsidian + Claude AI | Obsidian, Claude AI | Pessoal |
 | [Agente de Emissão NF-e](https://github.com/vgermano1711/agente-de-emissao-NF-e) | Agente para automação de emissão de Nota Fiscal Eletrônica, integrado ao SEFAZ | Python, Claude AI | Em desenvolvimento |
+
+---
+
+## Atividade
+
+<div align="center">
+
+<!-- pacman -->
+<picture>
+    <source media="(prefers-color-scheme: dark)"
+        srcset="https://raw.githubusercontent.com/vgermano1711/vgermano1711/output/pacman-contribution-graph-dark.svg">
+    <source media="(prefers-color-scheme: light)"
+        srcset="https://raw.githubusercontent.com/vgermano1711/vgermano1711/output/pacman-contribution-graph.svg">
+    <img alt="pacman contribution graph"
+        src="https://raw.githubusercontent.com/vgermano1711/vgermano1711/output/pacman-contribution-graph.svg">
+</picture>
+
+</div>
 
 ---
 
