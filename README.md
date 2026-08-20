@@ -33,29 +33,32 @@ Desenvolvedor web com foco em criação de sites institucionais, landing pages d
 
 ## Certificações
 
-**Anthropic Academy** (17 cursos)
+**Anthropic Academy** (20 cursos)
 
 <details>
 <summary>Ver todos</summary>
 <br>
 
-- AI Fluency: Framework & Foundations
-- AI Fluency: AI Capabilities & Limitations
-- AI Fluency for Educators
-- AI Fluency for Students
-- AI Fluency for Nonprofits — co-apresentado com GivingTuesday
-- AI Fluency for Small Businesses — co-apresentado com PayPal
 - Claude 101
 - Claude Code 101
-- Claude Code in Action
-- Introduction to Claude Cowork
-- Claude with the Anthropic API
-- Claude with Amazon Bedrock
-- Claude with Google Vertex AI
-- Introduction to Model Context Protocol
-- Model Context Protocol: Advanced Topics
-- Introduction to subagents
-- Introduction to agent skills
+- Claude Code em Ação
+- Claude Platform 101
+- Introdução ao Trabalho Colaborativo de Claude
+- Construindo com a API Claude
+- Claude com a Base Amazônica (Amazon Bedrock)
+- Claude com a Vertex AI do Google Cloud
+- Introdução ao Protocolo de Contexto do Modelo
+- Protocolo de Contexto do Modelo: Tópicos Avançados
+- Introdução a Habilidades de Agentes
+- Introdução a Subagentes
+- Capacidades e Limitações da IA
+- Fluência em IA: Estrutura e Fundamentos
+- Ensinando Fluência em IA
+- Fluência em IA para Educadores
+- Fluência em IA para Estudantes
+- Fluência em IA para Organizações Sem Fins Lucrativos — co-apresentado com GivingTuesday
+- Fluência em IA para Pequenas Empresas — co-apresentado com PayPal
+- AI Fluency for Builders
 
 </details>
 
@@ -63,13 +66,18 @@ Desenvolvedor web com foco em criação de sites institucionais, landing pages d
 
 | Instituição | Curso | Carga horária |
 |---|---|---|
-| SENAI | Competência Transversal — Lógica de Programação | 14h |
-| SENAI | Competência Transversal — Tecnologia da Informação e Comunicação | 14h |
-| Unova Cursos | Engenharia de Prompt (nota 9, frequência 100%) | 30h |
-| Santander Open Academy | Domine a IA com Gemini | 2h |
-| Santander Open Academy | Prompting Responsável: Maximizar a IA no seu negócio | 8h |
+| SENAI | Lógica de Programação: Algoritmos | 14h |
+| SENAI | Lógica de Programação: Tipos de Dados | — |
+| SENAI | Tecnologia e Comunicação | 14h |
+| SENAI | Ética na IA | — |
+| Gustavo Campelo | Desenvolvimento Web com Integração em IA | — |
+| Gustavo Guanabara | Python do Zero | — |
+| EBAC | Figma na Prática: Prototipagem com IA | — |
+| Enap | Banco de Dados — Censo Cadastral Previdenciário (nota 80) | 30h |
+| Santander Open Academy | Maximizar a IA no seu Negócio | 8h |
+| Santander / Google | Domine a IA com Gemini | 2h |
 | Daxus | Imersão Inteligência Artificial na Prática | 8h |
-| Enap | Censo Cadastral Previdenciário (nota 80) | 30h |
+| Unova Cursos | Engenharia de Prompt (nota 9, frequência 100%) | 30h |
 
 ---
 
@@ -89,6 +97,7 @@ Desenvolvedor web com foco em criação de sites institucionais, landing pages d
 **Banco de Dados & Infraestrutura**
 
 ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)
 
@@ -99,7 +108,7 @@ Desenvolvedor web com foco em criação de sites institucionais, landing pages d
 
 <br>
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,react,nodejs,python,php,figma,git,github,mysql)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,react,nodejs,python,php,firebase,figma,git,github,mysql)](https://skillicons.dev)
 
 </div>
 
@@ -109,10 +118,10 @@ Desenvolvedor web com foco em criação de sites institucionais, landing pages d
 
 | Projeto | Descrição | Tecnologias | Status |
 |--------|-----------|-------------|--------|
-| [Portfólio Pessoal](https://github.com/vgermano1711/portfolio-germano-dev) | Site com painel admin dinâmico e banco de dados | HTML, CSS, JS, Supabase | Em produção |
-| [Alma Estudos Visuais](https://github.com/vgermano1711/alma-estudos-visuais) | Plataforma de estudos visuais com design moderno, IA integrada e experiência de usuário otimizada — em construção com foco em performance e identidade visual forte | TypeScript, Figma, Lovable, Claude AI | Em desenvolvimento |
-| [Academia Agits](https://github.com/vgermano1711/academia-agits) | Site institucional para academia com PHP | PHP, HTML, CSS | Em produção |
-| [GNX Growth](https://github.com/vgermano1711/gnxgrowth) | SaaS de delivery com automações e gestão integrada | HTML, CSS, JS | Em desenvolvimento |
+| [Portfólio Pessoal](https://github.com/vgermano1711/portfolio-germano-dev) | Site com painel admin dinâmico e banco de dados | HTML, CSS, JS, Firebase | Em produção |
+| [Alma Estudos Visuais](https://github.com/vgermano1711/alma-estudos-visuais) | Site institucional com design moderno e experiência de usuário otimizada | HTML, CSS, JavaScript | Em desenvolvimento |
+| [Academia Agits](https://github.com/vgermano1711/academia-agits) | Site institucional em WordPress, hospedado na Hostinger | WordPress, PHP | Em produção |
+| [GNX Growth](https://github.com/vgermano1711/gnxgrowth) | Plataforma SaaS de growth marketing | React, TypeScript, Firebase | Em produção |
 | [Agente de Automação](https://github.com/vgermano1711/agente-de-automacao) | Sistema multi-agente de automação comercial — agentes de IA que qualificam leads, respondem clientes e gerenciam funil de vendas de forma autônoma | TypeScript, Node.js, Claude AI | Em desenvolvimento |
 | [Projeto Pringles](https://github.com/vgermano1711/projeto-pringles) | Aplicação web com TypeScript | TypeScript | Estudo |
 | [Segundo Cérebro](https://github.com/vgermano1711/segundo-cerebro) | Setup de produtividade com Obsidian + Claude AI | Obsidian, Claude AI | Pessoal |
