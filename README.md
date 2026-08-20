@@ -1,5 +1,7 @@
 <div align="center">
 
+<img src="assets/mascote.jpeg" width="140" alt="Mascote" />
+
 # Victor Germano
 
 ### Web Developer — Institutional Sites, Applied AI and Automation
